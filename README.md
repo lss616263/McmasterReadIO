@@ -12,8 +12,8 @@ So when you update code. First push to staging branch, readthedocs will automati
 ### 0.1 Install Python
 ### 0.2 Install Sphinx
 ```
-pip install sphinx sphinx-autobuild
-pip install sphinx_rtd_theme
+pip3 install sphinx sphinx-autobuild
+pip3 install sphinx_rtd_theme
 ```
 In Windows, you might need to execute these commands with Administrator's priviledge.
 
